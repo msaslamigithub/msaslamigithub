@@ -1,0 +1,6 @@
+#ignore all .JSON files
+*.JSON
+*.txt
+*.ps1
+*.rtf
+*.docx
